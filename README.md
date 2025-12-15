@@ -2,24 +2,24 @@ Street Crew is an intelligent recognition-based web application developed during
 
 # Key Features
 
-Animal recognition using voice input
-Image-based animal identification
-Text-based animal recognition
-Responsive and intuitive user interface
+Animal recognition using voice input, 
+Image-based animal identification, 
+Text-based animal recognition, 
+Responsive and intuitive user interface, 
 Real-time prediction results
 
 # Tech Stack
 
-Frontend: ReactJS
-Backend: AI / Machine Learning
-Libraries: OpenCV, Librosa
+Frontend: ReactJS, 
+Backend: AI / Machine Learning, 
+Libraries: OpenCV, Librosa, 
 Deployment: Netlify
 
 # Team Details
 
 Team Name: Street Crew
  ## Members:
-Khushboo Prajapati – Team Leader
-Ananya Chauhan
-Anshita Singh
+Khushboo Prajapati – Team Leader, 
+Ananya Chauhan, 
+Anshita Singh, 
 Saumya Yadav
